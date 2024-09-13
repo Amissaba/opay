@@ -1,0 +1,29 @@
+#div{
+    background-color: white;
+    display: flex;
+    gap: 30px;
+    /* margin: 20px 50px; */
+    padding-top: 20px;
+    position: fixed;
+    top: 0;
+    width: 1550px;
+    /* margin-bottom: 50px; */
+    /* box-shadow: 0px 0px 10px gray; */
+}
+#sectionOne{
+    background: url(https://files.opayweb.com/file/video/home01.jpg?x-image-process=image/format,jpeg/resize,w_2304,h_918/imageslim/interlace,1);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* margin: 0 0; */
+    margin-top: 50px;
+    padding: 0 0;
+}
+h1{
+    color: white;
+    font-weight: 700; 
+    size: 64px; 
+    line-height: 77px;
+    /* font-family: ; */
+
+}
